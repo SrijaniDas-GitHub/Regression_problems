@@ -1,2 +1,3 @@
 Name,Problem Statement in brief,Category,Comments
 WHO_Life_Expectancy_Analysis.ipynb,Study Life expectancy of people from a country given 15 years of data,Regression,Missing data handling and EDA done in details
+Estimate_Medical_Insurance_Cost.ipynb,Predict costs billed by health insurance companies given age gender BMI children smoker region,Regression,NA
